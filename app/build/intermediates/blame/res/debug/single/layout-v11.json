@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/masterderrick/TenantManager/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/root/.android/build-cache/4dd0129d2c26ff7ac9d72ef9420ff65a3dc2239d/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/masterderrick/TenantManager/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/root/.android/build-cache/4dd0129d2c26ff7ac9d72ef9420ff65a3dc2239d/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/masterderrick/TenantManager/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/root/.android/build-cache/4dd0129d2c26ff7ac9d72ef9420ff65a3dc2239d/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/masterderrick/TenantManager/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/root/.android/build-cache/4dd0129d2c26ff7ac9d72ef9420ff65a3dc2239d/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/masterderrick/TenantManager/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/root/.android/build-cache/4dd0129d2c26ff7ac9d72ef9420ff65a3dc2239d/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/masterderrick/TenantManager/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/root/.android/build-cache/4dd0129d2c26ff7ac9d72ef9420ff65a3dc2239d/output/res/layout-v11/notification_template_big_media.xml"
+    }
+]

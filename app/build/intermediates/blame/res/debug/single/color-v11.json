@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/masterderrick/TenantManager/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/root/.android/build-cache/4dd0129d2c26ff7ac9d72ef9420ff65a3dc2239d/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/masterderrick/TenantManager/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/root/.android/build-cache/4dd0129d2c26ff7ac9d72ef9420ff65a3dc2239d/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
