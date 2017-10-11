@@ -28,6 +28,10 @@
         "source": "/root/.android/build-cache/4dd0129d2c26ff7ac9d72ef9420ff65a3dc2239d/output/res/drawable/abc_seekbar_track_material.xml"
     },
     {
+        "merged": "/home/masterderrick/TenantManager/app/build/intermediates/res/merged/debug/drawable/suf.png",
+        "source": "/home/masterderrick/TenantManager/app/src/main/res/drawable/suf.png"
+    },
+    {
         "merged": "/home/masterderrick/TenantManager/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
         "source": "/root/.android/build-cache/060a5770b4ddbc15bdd77cfcfc048dbed2d18e24/output/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
